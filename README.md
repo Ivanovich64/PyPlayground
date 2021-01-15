@@ -1,7 +1,7 @@
 # PyPlayground
 Games, dumbscripts and funny stuff made mainly on Python
 
-#Active Development Projects
+# Active Development Projects
 
 ## PySweeper
 ### Info
@@ -10,6 +10,6 @@ Pysweeper aims to be a minesweeper game written in Python. I know there are **pl
 ### Programming Goals
    Description 				Status
 
-1. TUI text input			[ in development [
-1. GUI text input				[ soon [
-1. GUI mouse input				[ soon [
+1. TUI text input			[ in development ]
+1. GUI text input				[ soon ]
+1. GUI mouse input				[ soon ]
